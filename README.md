@@ -1,0 +1,11 @@
+Hello welcome, I am BomBe and I have a challenge for you
+
+Wanna try beat my challenge? 
+
+
+Here is a encripted message for you to solve: b'\xd6\x14L#\xf3[\x17\x9bY/\xbc\xeagX\xabN!)R\xc4\xbb\xf1\xcdy&\x1d\xbd\xc1\xe68\xfa\xdf\xe6\xaaVXy\x8e*\xb3\xe9\xfb\x84\x86\xb2s\xd4s\xff\x99\x8c\x1d\x08\xd8\xf2\xc9[i\xfb\x07_\xaev\xe7'
+
+32 bytes key required https://b0mbe.netlify.app/
+
+
+Thanks for your time
